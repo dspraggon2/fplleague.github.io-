@@ -1,0 +1,36 @@
+{
+  "leagueId": 1126212,
+  "title": "Earth Wind & Maguire",
+  "active": 2,
+  "rulesConfirmed": false,
+  "hitMode": "all",
+  "includeLive": false,
+  "periods": [
+    {
+      "name": "Mini-league 1",
+      "start": 1,
+      "end": 9
+    },
+    {
+      "name": "Mini-league 2",
+      "start": 10,
+      "end": 19
+    },
+    {
+      "name": "Mini-league 3",
+      "start": 20,
+      "end": 28
+    },
+    {
+      "name": "Mini-league 4",
+      "start": 29,
+      "end": 38
+    }
+  ],
+  "repositoryUrl": "https://github.com/dspraggon2/fplleague.github.io-",
+  "excludedByPeriod": {
+    "2": [
+      6236612
+    ]
+  }
+}
