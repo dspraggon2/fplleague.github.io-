@@ -4,7 +4,7 @@
   "active": 2,
   "rulesConfirmed": false,
   "hitMode": "all",
-  "includeLive": false,
+  "includeLive": true,
   "periods": [
     {
       "name": "Mini-league 1",
